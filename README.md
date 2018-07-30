@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CopyrightRendererTool::Renderer.copyright "Bianca Velázquez", "All rights reserved"
+```
 
 ## Development
 
